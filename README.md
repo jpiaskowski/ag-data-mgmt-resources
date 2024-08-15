@@ -6,12 +6,14 @@ Establish online resource of data management tools and recommendations. A nice r
  
 ### 5 main areas to address 
 *(not in any particular order)*
- 
+
+1. Project management
 1. File naming & organization
 1. Documentation
 1. Version control
 1. Spreadsheets
 1. Tidy data
+ 
  
 ### We want for each:
  
@@ -25,5 +27,6 @@ Establish online resource of data management tools and recommendations. A nice r
 * Julia will set up a structure for a gitbook on github (do we want this private for now or public?) for this
 * ~~Sara will track down references for her library  (Julia can port this over to a public Zotero library)~~
 * Everyone will make sure they can access github from their main computer, either through the git bash terminal, the GitHub desktop client or RStudio.
-
+* Need Sara's presentations
+* ~~share google drive link~~
   
