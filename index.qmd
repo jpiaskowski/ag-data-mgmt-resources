@@ -1,0 +1,7 @@
+---
+title: "Data Management for Agriculture and Natural Resource Sciences"
+author: ["Sara Duke", "Kathleen Yeater", "Julia Piaskowski"]
+---
+
+This is WIP
+
